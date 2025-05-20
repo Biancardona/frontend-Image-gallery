@@ -1,0 +1,22 @@
+{
+    "aboutUs": "We are a premium t-shirt brand...",
+    "qualityPolicies": "All our t-shirts are made with 100% premium cotton...",
+    "physicalStore": {
+      "address": "123 Fashion Street",
+      "city": "Your City",
+      "state": "Your State",
+      "zipCode": "12345",
+      "phone": "(123) 456-7890",
+      "hours": "Monday-Saturday: 10AM-8PM, Sunday: 12PM-6PM"
+    },
+    "contactForm": {
+      "email": "contact@yourbrand.com",
+      "phone": "(123) 456-7890",
+      "socialMedia": {
+        "instagram": "@yourbrand",
+        "facebook": "yourbrand",
+        "twitter": "@yourbrand"
+      }
+    }
+  }
+  
